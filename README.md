@@ -1,2 +1,2 @@
 # comentaire
-ceci est un tutoriel pour les base de git et github
+ceci est un tutoriel pour les bases de git et github
